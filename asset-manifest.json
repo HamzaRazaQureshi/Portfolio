@@ -1,16 +1,23 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/Portfolio/static/js/main.2c09fc62.js",
+    "main.js": "/Portfolio/static/js/main.ea71ac70.js",
+    "static/media/easyget.png": "/Portfolio/static/media/easyget.7e3d9e3533fece67b7c7.png",
+    "static/media/foodies.png": "/Portfolio/static/media/foodies.6e0ad52e40fba1b31376.png",
+    "static/media/socomedia.png": "/Portfolio/static/media/socomedia.2fcd7881e19d5468fb53.png",
+    "static/media/shippion.png": "/Portfolio/static/media/shippion.920e8337a21c0175959c.png",
     "static/media/postman.png": "/Portfolio/static/media/postman.7fedeaff79947348538e.png",
+    "static/media/info aidtech.jpg": "/Portfolio/static/media/info aidtech.d66aa9518093b179fad0.jpg",
+    "static/media/infosys.png": "/Portfolio/static/media/infosys.e552b08aa04c63fabd94.png",
     "static/media/HeroImage.jpg": "/Portfolio/static/media/HeroImage.38a98ddb6c550f4a4b67.jpg",
+    "static/media/infologo.png": "/Portfolio/static/media/infologo.3d86654a375473841c21.png",
     "static/media/matalb.png": "/Portfolio/static/media/matalb.10801ab284b977b86e6e.png",
     "index.html": "/Portfolio/index.html",
     "main.bf538fe7.css.map": "/Portfolio/static/css/main.bf538fe7.css.map",
-    "main.2c09fc62.js.map": "/Portfolio/static/js/main.2c09fc62.js.map"
+    "main.ea71ac70.js.map": "/Portfolio/static/js/main.ea71ac70.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.2c09fc62.js"
+    "static/js/main.ea71ac70.js"
   ]
 }
