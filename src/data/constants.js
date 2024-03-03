@@ -21,7 +21,7 @@ export const Bio = {
     "",
   github: "https://github.com/HamzaRazaQureshi",
   resume:
-    "https://drive.google.com/file/d/1w2mRaAGUOdrf4zDRPsp6ngbBS2_99HN8/view?usp=sharing",
+    "https://drive.google.com/file/d/1nO7OHRwnia0dB6g7g9p4pzhc19hrJ4FM/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/hamza-raza-qureshi-21109a221/",
   twitter: "",
   insta: "",
@@ -61,10 +61,6 @@ export const skills = [
   {
     title: "Backend",
     skills: [
-      {
-        name: "Node Js",
-        image: "https://nodejs.org/static/images/logo.svg",
-      },
       {
         name: "Python",
         image:
