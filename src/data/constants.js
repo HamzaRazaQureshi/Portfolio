@@ -3,6 +3,13 @@ import matlab from "../images/matalb.png";
 import git from "../images/git.png";
 import postman from "../images/postman.png";
 import sql from "../images/sql.png";
+import infoaidtech from "../images/info aidtech.jpg";
+import infologo from "../images/infologo.png";
+import infosys from "../images/infosys.png";
+import easyget from "../images/easyget.png";
+import foodies from "../images/foodies.png";
+import socomedia from "../images/socomedia.png";
+import shoppion from "../images/shippion.png";
 
 export const Bio = {
   name: "Hamza Raza Qureshi",
@@ -65,11 +72,11 @@ export const skills = [
         image:
           cimg,
       },
-      {
-        name: "Matlab",
-        image:
-          matlab,
-      },
+    ],
+  },
+  {
+    title: "Databases",
+    skills: [
       {
         name: "SQL",
         image:
@@ -110,6 +117,11 @@ export const skills = [
         image:
           postman,
       },
+      {
+        name: "Matlab",
+        image:
+          matlab,
+      },
     ],
   },
 ];
@@ -117,7 +129,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://drive.google.com/file/d/1V4sB8D_hSQX3h8GXywT8WtW3CUrt8P0o/view?usp=drive_link",
+    img: infologo,
     role: "Python Developer Intern",
     company: "Info aidTech",
     date: "Aug 2023 - July 2023",
@@ -125,7 +137,7 @@ export const experiences = [
     skills: [
       "Tkinter", "Python", "Time Management", "Program Creation"
     ],
-    doc: "https://drive.google.com/file/d/1bU4ZYi2J0kQdDshIjENgKFaHN2lzS-e4/view?usp=sharing",
+    doc: infoaidtech,
   },
 ];
 
@@ -168,7 +180,7 @@ export const projects = [
     description:
       "A simple Information System using React & Nodejs",
     image:
-      "",
+      infosys,
     tags: [
       "React",
       "Nodejs",
@@ -187,7 +199,7 @@ export const projects = [
     description:
       "EasyGet is a similar website to YOUTUBE demo created using HTML, CSS & Js.",
     image:
-      "",
+      easyget,
     tags: [
       "JavaScript",
       "HTML",
@@ -204,7 +216,7 @@ export const projects = [
     description:
       "A demo website created using HTML, CSS Bootstrap.",
     image:
-      "",
+      foodies,
     tags: [
       "JavaScript",
       "HTML",
@@ -221,7 +233,7 @@ export const projects = [
     description:
       "Developed SPA Ecommerce Website using HTML, CSS, JavaScript & Bootstrap.",
     image:
-      "",
+      shoppion,
     tags: [
       "HTML",
       "CSS",
@@ -237,7 +249,7 @@ export const projects = [
     description:
       "A social media website using HTML, CSS & Javascript.",
     image:
-      "",
+      socomedia,
     tags: [
       "JavaScript",
       "HTML",
