@@ -16,9 +16,6 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1Y7VZzN-GWH43RTceJ4Q1-GwK90lnaL-w/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/hamza-raza-qureshi-21109a221/",
-  twitter: "",
-  insta: "",
-  facebook: "",
 };
 
 export const skills = [
