@@ -21,7 +21,7 @@ export const Bio = {
     "",
   github: "https://github.com/HamzaRazaQureshi",
   resume:
-    "https://drive.google.com/file/d/1i_VbrzbSvOBkSSA_e1s9jY1aO_LGdjZP/view?usp=sharing",
+    "https://drive.google.com/file/d/1Vm6gNT76Wn8wS9P8CMU_ivZxybj1ulfS/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/hamza-raza-qureshi-21109a221/",
   twitter: "",
   insta: "",
